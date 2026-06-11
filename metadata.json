@@ -1,0 +1,6 @@
+{
+  "name": "Social Media Comment Moderator",
+  "description": "An interactive full-stack visualization and evaluation tool to automatically filter negative or toxic comments on social media using keyword lists and server-side Gemini sentiment analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
